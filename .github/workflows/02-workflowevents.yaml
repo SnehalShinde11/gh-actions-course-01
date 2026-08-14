@@ -1,6 +1,6 @@
 name: 02-worflow events
 on: 
-  wokflow_dispatch:
+  workflow_dispatch:
   pull_request:
 
 
