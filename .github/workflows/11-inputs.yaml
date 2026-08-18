@@ -5,7 +5,7 @@ on:
         dry-run:
             type: boolean
             description: Skip deployment and only prunt build output
-            type: false
+            default: : false
         target: 
             type: environment
             required: true
